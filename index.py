@@ -29,5 +29,4 @@ algo.fit(trainset)
 # Predict a certain item
 userid = str(196)
 itemid = str(302)
-actual_rating = 4
 print(algo.predict(userid, itemid))
