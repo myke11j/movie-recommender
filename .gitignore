@@ -100,3 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 ml-100k/
+
+.DS_Store
+
+.vscode/
